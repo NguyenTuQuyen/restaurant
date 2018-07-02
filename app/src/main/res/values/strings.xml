@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RESTAURANT</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="i_agree_to">I agree to</string>
+    <string name="privacy">Privacy</string>
+    <string name="and">and</string>
+    <string name="terms">Terms</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_password">Remember Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="get_new_password">Get New Password</string>
+    <string name="get_password">Get Password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="login_with_another_account">Login with another account</string>
+    <string name="not_have_an_account">Not have an account?</string>
+
+    <string name="login_with_facebook">Login with facebook</string>
+
+
+</resources>
