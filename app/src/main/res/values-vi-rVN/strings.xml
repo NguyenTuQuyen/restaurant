@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RESTAURANT</string>
+    <string name="continue_with_google">Tiếp tục với Google</string>
+    <string name="continue_with_facebook">Tiếp tục với Facebook</string>
+    <string name="i_agree_to">Tôi đồng ý với các</string>
+    <string name="privacy">Điều khoản</string>
+    <string name="and">"và "</string>
+    <string name="terms">Quy định</string>
+    <string name="login">Đăng nhập</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember_password">Nhớ mật khẩu?</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="register">Đăng kí</string>
+    <string name="email">Email</string>
+    <string name="get_new_password">Lấy lại Password</string>
+    <string name="get_password">Lấy Password</string>
+    <string name="enter_email">Nhập Email</string>
+    <string name="login_with_another_account">Đăng nhập với tài khoản khác</string>
+    <string name="not_have_an_account">Chưa có tài khoản?</string>
+    <string name="login_with_facebook">Đăng nhập bằng Facebook hoặc Gmail</string>
+    <string name="action_settings">setting</string>
+</resources>
