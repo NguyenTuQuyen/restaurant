@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "763652738957",
+    "firebase_url": "https://quyennguyen-ce2a5.firebaseio.com",
+    "project_id": "quyennguyen-ce2a5",
+    "storage_bucket": "quyennguyen-ce2a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763652738957:android:43405a2b48173a8e",
+        "android_client_info": {
+          "package_name": "vn.a3dbuilder.quyennguyen.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763652738957-c0bmq4rsq73faoji61nipjl0g91ac86i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.a3dbuilder.quyennguyen.restaurant",
+            "certificate_hash": "552fbc82c42dfda3b2de9b64e01eb29a108f8d82"
+          }
+        },
+        {
+          "client_id": "763652738957-ebmlvo5ouujqqaqdlnmc3br85m5qlqg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.a3dbuilder.quyennguyen.restaurant",
+            "certificate_hash": "99fb78378e3a4652c4f5112bceb251ca96a859bd"
+          }
+        },
+        {
+          "client_id": "763652738957-rf8u8qgnpdfvlo37gfe22bcsqm3fgeum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.a3dbuilder.quyennguyen.restaurant",
+            "certificate_hash": "395f7886dcaddc487b25d4490026547687d6dee7"
+          }
+        },
+        {
+          "client_id": "763652738957-amicdau80o9cq38hh2b6a7si350ukcca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCEOqwdQ0tpn5j7nnTjWcGiLbEV6DzR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763652738957-amicdau80o9cq38hh2b6a7si350ukcca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
